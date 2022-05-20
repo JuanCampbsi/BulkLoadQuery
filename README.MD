@@ -1,3 +1,3 @@
-# PARA RODAR
+# Run
 
 ## `yarn start`
