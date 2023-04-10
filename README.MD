@@ -1,3 +1,3 @@
 # Run
-#npm i
+# `npm i`
 ## `yarn start`
